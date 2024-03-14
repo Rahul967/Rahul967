@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rahul967.Rahul967" />
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Kumar+Singh!;" />
 </h1>
@@ -53,7 +54,11 @@ const rahul = {
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+    <br>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahul967" alt="ghasty003" /></a> </p>
   <br>
+
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rahul967/rahul967/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
@@ -65,7 +70,7 @@ const rahul = {
 <div align="center">
   <a href="https://github.com/rahul967">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahul967&theme=dracula" height="180em" />
-    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul967&theme=dracula" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul967&theme=dracula" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul967&theme=dracula" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahul967&theme=dracula" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul967&theme=dracula" height="180em" />
